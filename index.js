@@ -4,14 +4,14 @@ function takeANumber(currentLine, newName) {
 }
 
 //  current numbers, new chosen numbers
-add chosen number to current number
+//add chosen number to current number
 
 let newNumber = 0;
 
 function takeANumber(currentNumbers) {
   newNumber++;
   currentNumbers.push(newNumber);
-  return `Welcome, you are number ${newNumber}
+  return `Welcome, you are number ${newNumber}`
 }
 
 function nowServing(katzDeliLine) {
